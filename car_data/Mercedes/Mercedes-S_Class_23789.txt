@@ -1,0 +1,5 @@
+Car ID: Mercedes-S_Class_23789
+Car Model: S-Class
+Year of Manufacture: 2020
+Color: black
+Price: 95000$

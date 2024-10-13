@@ -1,0 +1,5 @@
+Car ID: Mercedes-AMG_GT_67821
+Car Model: AMG GT
+Year of Manufacture: 2021
+Color: silver
+Price: 120000$

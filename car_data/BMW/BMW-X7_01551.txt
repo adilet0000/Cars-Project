@@ -1,0 +1,5 @@
+Car ID: BMW-X7_01551
+Car Model: X7
+Year of Manufacture: 2025
+Color: blue
+Price: 155000$

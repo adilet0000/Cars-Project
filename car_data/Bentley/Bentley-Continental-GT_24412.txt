@@ -1,0 +1,5 @@
+Car ID: Bentley-Continental-GT_24412
+Car Model: Continental_GT
+Year of Manufacture: 2024
+Color: white
+Price: 240000$

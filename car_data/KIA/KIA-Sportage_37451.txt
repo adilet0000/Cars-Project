@@ -1,0 +1,5 @@
+Car ID: KIA-Sportage_37451
+Model: Sportage
+Year of Manufacture: 2019
+Color: white
+Price: 25000$

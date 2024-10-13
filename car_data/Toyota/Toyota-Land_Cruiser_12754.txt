@@ -1,0 +1,5 @@
+Car ID: Toyota-Land_Cruiser_12754
+Car Model: Land Cruiser
+Year of Manufacture: 2022
+Color: white
+Price: 85000$

@@ -1,0 +1,5 @@
+Car ID: Toyota-Corolla_45231
+Car Model: Corolla
+Year of Manufacture: 2018
+Color: red
+Price: 18000$

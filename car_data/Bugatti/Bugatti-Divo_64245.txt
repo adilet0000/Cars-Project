@@ -1,0 +1,5 @@
+Car ID: Bugatti-Divo_64245
+Car Model: Divo
+Year of Manufacture: 2020
+Color: blue
+Price: 5800000$

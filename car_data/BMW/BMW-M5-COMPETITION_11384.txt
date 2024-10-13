@@ -1,0 +1,5 @@
+Car ID: BMW-M5-COMPETITION_11384
+Car Model: M5
+Year of Manufacture: 2024
+Color: blue
+Price: 140000$

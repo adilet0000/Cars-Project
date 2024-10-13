@@ -1,0 +1,5 @@
+Car ID: KIA-Stinger_98427
+Car Model: Stinger
+Year of Manufacture: 2021
+Color: black
+Price: 45000$

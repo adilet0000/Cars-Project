@@ -1,0 +1,5 @@
+Car ID: Bentley-Mulliner-Batur_25125
+Car Model: Mulliner_Batur
+Year of Manufacture: 2024
+Color: green
+Price: 260000$
