@@ -1,4 +1,4 @@
-from car_utils import select_or_create_folder, check_and_save_car_id, save_car_info
+from car_utils import select_or_create_folder, add_car_to_folder, save_car_info
 from file_operations import view_cars, edit_file, delete_file, move_file
 from bucket_operations import restore_file, empty_bucket
 from table_operations import display_table
@@ -24,14 +24,11 @@ def main():
 
         if choice == '1':
             folder_name = select_or_create_folder()
-            car_id = check_and_save_car_id()
-            car_model = input("Enter the Car Model: ")
-            car_year = input("Enter the Year of Manufacture: ")
-            car_color = input("Enter the Color of the Car: ")
-            car_price = input("Enter the Price of the Car: ")
-
-            car_info = f"Car ID: {car_id}\nCar Model: {car_model}\nYear of Manufacture: {car_year}\nColor: {car_color}\nPrice: {car_price}\n"
-            save_car_info(folder_name, car_id, car_info)
+            if folder_name == '0':  # Проверяем, если вернулись в главное меню
+                continue
+            
+            # Добавляем машину в выбранную папку
+            add_car_to_folder(folder_name)
 
         elif choice == '2':
             view_cars()
